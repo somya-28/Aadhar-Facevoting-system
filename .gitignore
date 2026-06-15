@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pkl
+Votes.csv
+Votes.csv
+.DS_Store
