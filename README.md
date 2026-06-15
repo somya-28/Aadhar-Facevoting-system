@@ -29,7 +29,21 @@ This project captures face images through a webcam, trains a simple KNN-based fa
 - `scikit-learn`
 - `pywin32`
 
-Install dependencies with:
+## Setup
+
+1. Create a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+2. Activate it:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
